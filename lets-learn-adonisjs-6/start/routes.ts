@@ -6,6 +6,7 @@
 | The routes file is used for defining the HTTP routes.
 |
 */
+
 import app from '@adonisjs/core/services/app'
 import router from '@adonisjs/core/services/router'
 import fs from 'node:fs/promises'
